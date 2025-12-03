@@ -1,5 +1,5 @@
-import 'package:country_picker_plus/countries.dart';
-import 'package:country_picker_plus/country.dart';
+import 'package:ka4_country_picker_plus/countries.dart';
+import 'package:ka4_country_picker_plus/country.dart';
 import 'package:flutter/widgets.dart';
 
 class CountryPickerUtils {

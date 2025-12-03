@@ -1,4 +1,4 @@
-# country_picker_plus
+# ka4_country_picker_plus
 
 **By [ka4.tech](https://ka4.tech)**
 
@@ -10,7 +10,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  country_picker_plus: ^1.0.0
+  ka4_country_picker_plus: ^1.0.0
 ```
 
 Then run:

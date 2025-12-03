@@ -1,7 +1,7 @@
-import 'package:country_picker_plus/country.dart';
+import 'package:ka4_country_picker_plus/country.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:country_picker_plus/country_pickers.dart';
+import 'package:ka4_country_picker_plus/country_pickers.dart';
 
 void main() => runApp(const MyApp());
 

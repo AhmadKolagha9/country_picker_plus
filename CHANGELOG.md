@@ -1,7 +1,7 @@
 ## [1.0.0] - 12/03/2025
 
 * Republished package under new ownership by **ka4.tech**
-* Updated package name to `country_picker_plus`
+* Updated package name to `ka4_country_picker_plus`
 * Updated copyright information
 * Updated version to 1.0.0
 * Updated the flags in package

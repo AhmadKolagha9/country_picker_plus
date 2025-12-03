@@ -1,6 +1,6 @@
-import 'package:country_picker_plus/country.dart';
-import 'package:country_picker_plus/utils/typedefs.dart';
-import 'package:country_picker_plus/utils/my_alert_dialog.dart';
+import 'package:ka4_country_picker_plus/country.dart';
+import 'package:ka4_country_picker_plus/utils/typedefs.dart';
+import 'package:ka4_country_picker_plus/utils/my_alert_dialog.dart';
 import 'package:flutter/material.dart';
 import 'countries.dart';
 

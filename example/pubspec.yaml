@@ -11,7 +11,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.8
-  country_picker_plus:
+  ka4_country_picker_plus:
     path: ../
 
 dev_dependencies:

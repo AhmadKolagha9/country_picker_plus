@@ -1,4 +1,4 @@
-import 'package:country_picker_plus/country.dart';
+import 'package:ka4_country_picker_plus/country.dart';
 
 final List<Country> countryList = [
   Country(
